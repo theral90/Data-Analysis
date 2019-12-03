@@ -1,0 +1,4 @@
+python3 -m pip install jupyter
+python3 -m pip install -U matplotlib
+sudo pip3 install numpy
+sudo pip3 install pandas
